@@ -110,14 +110,11 @@ const portfolio = [
         path: "whirlcreekfarm.ga_-min.webp",
         copy: `
     <li>
-    My parent's farm was lacking in online presence, which could be a valuable asset for their organic direct sales.</li>
-    <li>To
-    solve this problem I created a modern website which allows the user to browse products, contact us, and send their
-    orders to my email. As this site is currently a demo, orders from it will not be filled, and the contact information is
-    not accurate.</li>
-    <li>I built this site with create-react-app, SCSS and css modules.</li>`,
+    I run a ranch on the side, and wanted to up my marketing game.</li>
+    <li>To unlock new markets for my beef and up my dev game I built a marketing site plus an online store, its not live yet, but will be switch on for e-commerce within the month.</li>
+    <li>On this project I decided to try out the <a https="https://create.t3.gg/">T3 stack</a> and it did not disappoint. Hands down its the best React stack out there for small fullstack web apps. I also used stripe for the e-commerce portion of the site. Right now I'm looking into enabling payment via btc as well :)</li>`,
         secondary: "",
-        site: "https://whirlcreekfarm.ga/",
+        site: "https://stisidoreranch.com/",
         code: "https://github.com/Christopher-Stevers/actual-react-whirl"
     },
    {
